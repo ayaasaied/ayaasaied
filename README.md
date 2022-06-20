@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm aya saied</h1>
 <h3 align="center">Full Stack Dot Net Developer</h3>
 
-- 🔭 I’m currently working on **Currency Converter**
+- 🔭 I’m currently working on **Shipping Company**
 
 - 🌱 I’m currently learning **React js**
 
