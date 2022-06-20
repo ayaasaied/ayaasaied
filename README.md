@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ayaassaied48@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12DN66cMO9SyAB6_2z_r6s7DvpPe-MYeS/view?usp=sharing](https://drive.google.com/file/d/12DN66cMO9SyAB6_2z_r6s7DvpPe-MYeS/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1UOu3hJOJBEU6bH5IPIFCG5UiPJBNyKwk/view?usp=sharing](https://drive.google.com/file/d/12DN66cMO9SyAB6_2z_r6s7DvpPe-MYeS/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
