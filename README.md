@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm aya saied</h1>
 <h3 align="center">Full Stack Dot Net Developer</h3>
 
-- 🔭 I’m currently working on  ** Bookify system **
+- 🔭 I’m currently working on  **Bookify system**
 
-- 🌱 I’m currently learning ** Advanced Topics in Dot Net **
-- 
-- 🌱 I’m reading  ** Refactoring: Improving the Design of Existing Code Book **
+- 🌱 I’m currently learning **Advanced Topics in Dot Net**
+  
+- 🌱 I’m reading  **Refactoring: Improving the Design of Existing Code Book**
 
 - 📫 How to reach me **ayaassaied48@gmail.com**
 
